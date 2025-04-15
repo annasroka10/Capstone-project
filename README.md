@@ -1,6 +1,6 @@
 # _Capstone-project_
 ### About this dataset
-The dataset represents E-Commerce transactions processed via PayPal during the 2025 financial year, covering the period from December to March. While the vast majority of transactions are successfully completed through an automated system, approximately 0.1% fail due to various issues. My role involves investigating these failures, identifying their root causes, and ensuring they are resolved with the appropriate actions.
+The dataset represents E-Commerce transactions processed via PayPal during the 2025 financial year, covering the period from November to March. While the vast majority of transactions are successfully completed through an automated system, approximately 0.1% fail due to various issues. My role involves investigating these failures, identifying their root causes, and ensuring they are resolved with the appropriate actions.
 
 The dataset includes 38 columns and 4,559 rows, with analyses conducted on a biweekly basis. This report aims to address several key questions:
 
