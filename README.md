@@ -119,6 +119,13 @@ The second most frequent write-off category is settlement reversed/chargeback, w
 ![write offs](https://github.com/user-attachments/assets/f475f5cd-1a7d-4b5a-9eaa-efd81c995c2a)
 
 ## Conclusion
+This analysis of PayPal E-Commerce transaction failures during the 2025 financial year reveals key insights into both operational inefficiencies and customer behavior. Although failed transactions represent a small portion (0.1%) of the total volume, their cumulative financial impact and the patterns behind them offer valuable opportunities for process improvement.
+Key findings include:
+•	"Write off" is the most frequent resolution action, often tied to customer dissatisfaction, chargebacks, or process gaps like canceled invoices without rebilling.
+
+•	A significant portion of failed transactions are less than 10 days old and typically auto-resolve, reducing their immediate risk. However, early monitoring helps prevent backlog buildup.
+
+•	The total value of unresolved PayPal transactions (~$56.5K) is relatively small when compared to the company’s total processing volume, but consistent tracking is crucial to avoid accumulation.
 
 
 
